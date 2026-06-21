@@ -38,6 +38,12 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=rinamohan206&theme=tokyonight)
 
 ---
+##top language
+*java
+*SQL
+*HTML
+*Python
+*c
 
 ## Profile Views
 
