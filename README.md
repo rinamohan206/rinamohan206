@@ -1,62 +1,71 @@
-Hi 👋 I'm Rina Mohan
+# Hi 👋 I'm Rinamohan
 
-Electronics and Communication Engineering (ECE) Student
+## Electronics and Communication Engineering Student
 
-🎓 B.E. Electronics and Communication Engineering (ECE)
+🎓 B.E Electronics and Communication Engineering (ECE) Student
 
-💻 Passionate about Electronics, Embedded Systems, IoT, 5G Networks, VLSI, and Software Development
+💻 Passionate about Electronics, Communication Systems, Software Development, and Technology
 
-🌱 Currently learning Embedded Systems, IoT, Wireless Communication, VLSI Design, Python, and Communication Networks
+🌱 Currently learning Programming, Embedded Systems, Java, DSA, and Full-Stack Development
 
-📫 GitHub: https://github.com/rinamohan206
-
----
-
-🚀 Skills
-
-"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-"Arduino" (https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-"IoT" (https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+📫 Reach me at: your-email@gmail.com
 
 ---
 
-📊 GitHub Stats
+## Skills
 
-"Rina's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=rinamohan206&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-🔥 GitHub Streak
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=rinamohan206&theme=tokyonight&hide_border=true)
-
----
-
-💻 Top Languages
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=rinamohan206&layout=compact&theme=tokyonight&hide_border=true)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
-🌐 Connect With Me
+## GitHub Stats
 
-""GitHub" (https://img.shields.io/badge/GitHub-rinamohan206-181717?style=for-the-badge&logo=github)" (https://github.com/rinamohan206)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinamohan206&show_icons=true&theme=tokyonight)
 
 ---
 
-🎯 Career Interests
+## GitHub Streak
 
+![GitHub Streak](https://streak-stats.demolab.com?user=rinamohan206&theme=tokyonight)
+
+---
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinamohan206&layout=compact&theme=tokyonight)
+
+---
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=rinamohan206&color=blue)
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rinamohan206)
+
+---
+
+## Career Interests
+
+- Electronics and Communication Engineering
 - Embedded Systems
-- Internet of Things (IoT)
-- 5G & Wireless Communication
-- VLSI Design
-- Signal Processing
-- Robotics & Automation
-- Electronics Product Development
+- IoT
+- Software Engineering
+- Artificial Intelligence
+- Full Stack Development
+- Cloud Computing
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile!
+
