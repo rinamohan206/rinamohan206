@@ -1,16 +1,71 @@
-## Hi there 👋
+Hi 👋 I'm Rina Mohan
 
-<!--
-**rinamohan206/rinamohan206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artificial Intelligence and Data Science Student
 
-Here are some ideas to get you started:
+🎓 B.Tech Artificial Intelligence and Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Artificial Intelligence, Data Science, Android Development, and Software Development
+
+🌱 Currently learning Machine Learning, Deep Learning, Java, DSA, and Full-Stack Development
+
+📫 GitHub: @rinamohan206
+
+---
+
+Skills
+
+- Python
+- Java
+- Machine Learning
+- Deep Learning
+- Data Science
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+---
+
+GitHub Stats
+
+Add your GitHub stats card here.
+
+---
+
+GitHub Streak
+
+Add your GitHub streak card here.
+
+---
+
+Top Languages
+
+Add your top languages card here.
+
+---
+
+Profile Views
+
+Add your profile views badge here.
+
+---
+
+Connect With Me
+
+- GitHub: https://github.com/rinamohan206
+- LinkedIn: Add your LinkedIn profile
+- Email: Add your email address
+
+---
+
+Career Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Android Development
+- Software Engineering
+- Cloud Computing
+- Full Stack Development
+
+---
+
+⭐ Thanks for visiting my profile!
