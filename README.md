@@ -38,7 +38,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=rinamohan206&theme=tokyonight)
 
 ---
-##top language
+**##top language**
 
 *java
 *SQL
