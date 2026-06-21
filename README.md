@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="YOUR_IMAGE_URL" width="150" height="150" />
+</p>
+
 # Hi 👋 I'm Rinamohan
 
-## Electronics and Communication Engineering Student
+## Electronics and Communication Engineering (ECE) Student
 
 🎓 B.E Electronics and Communication Engineering (ECE) Student
 
