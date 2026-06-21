@@ -12,7 +12,7 @@
 
 🌱 Currently learning Programming, Embedded Systems, Java, DSA, and Full-Stack Development
 
-📫 Reach me at: your-email@gmail.com
+📫 Reach me at: rinamohan206@gmail.com
 
 ---
 
