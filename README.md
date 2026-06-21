@@ -39,12 +39,6 @@
 
 ---
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinamohan206&layout=compact&theme=tokyonight)
-
----
-
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rinamohan206&color=blue)
