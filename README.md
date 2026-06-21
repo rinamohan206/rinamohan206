@@ -1,12 +1,12 @@
 Hi 👋 I'm Rina Mohan
 
-Artificial Intelligence and Data Science Student
+Electronics and Communication Engineering (ECE) Student
 
-🎓 B.Tech Artificial Intelligence and Data Science
+🎓 B.E. Electronics and Communication Engineering (ECE)
 
-💻 Passionate about Artificial Intelligence, Data Science, Android Development, and Software Development
+💻 Passionate about Electronics, Embedded Systems, VLSI, IoT, Wireless Communication, and Software Development
 
-🌱 Currently learning Machine Learning, Deep Learning, Java, DSA, and Full-Stack Development
+🌱 Currently learning Microprocessors, Digital Signal Processing (DSP), VLSI Design, IoT, Python, and Communication Networks
 
 📫 GitHub: @rinamohan206
 
@@ -14,12 +14,16 @@ Artificial Intelligence and Data Science Student
 
 Skills
 
+- C Programming
 - Python
-- Java
-- Machine Learning
-- Deep Learning
-- Data Science
-- HTML, CSS, JavaScript
+- Embedded Systems
+- Arduino
+- IoT
+- Digital Electronics
+- Analog Electronics
+- Communication Systems
+- MATLAB
+- PCB Design
 - Git & GitHub
 
 ---
@@ -42,29 +46,29 @@ Add your top languages card here.
 
 ---
 
-Profile Views
+Projects & Interests
 
-Add your profile views badge here.
+- Embedded System Design
+- Internet of Things (IoT)
+- Wireless Communication
+- 5G Networks
+- VLSI Technology
+- Signal Processing
+- Robotics & Automation
 
 ---
 
 Connect With Me
 
 - GitHub: https://github.com/rinamohan206
-- LinkedIn: Add your LinkedIn profile
-- Email: Add your email address
+- LinkedIn: Add your LinkedIn Profile
+- Email: Add your Email Address
 
 ---
 
-Career Interests
+Career Goals
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Android Development
-- Software Engineering
-- Cloud Computing
-- Full Stack Development
+Aspiring Electronics and Communication Engineer passionate about developing innovative solutions in Embedded Systems, IoT, Wireless Networks, and Next-Generation Communication Technologies.
 
 ---
 
