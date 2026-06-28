@@ -62,7 +62,6 @@
 
 ## Career Interests
 
-- Electronics and Communication Engineering
 - Embedded Systems
 - IoT
 - Software Engineering
